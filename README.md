@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KirtanManek.
-- 📫 To reach me mail me @ 21010101123@darshan.ac.in
+- 📫 To reach me mail me @ manekkirtan@gmail.com
+- Currently learning Java Script, JavaFX, Android Studio, Data Structures.
 
 <!---
 KirtanManek/KirtanManek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
