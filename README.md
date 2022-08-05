@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DhruvKaravadiya&theme=tokyonight&color=brightgreen&style=flat&label=Profile+Views)
 
 <div align='center'>
-## About me
+<br/><br/>## About me
 🌱&nbsp;Learning about **Java, JavaScript, Android Development, HTML5, CSS3, Bootstrap, ReactJS, AngularJS, NodeJS, MySQL, MSSQL**
 <br/>💡&nbsp;I'm interested about **Development, Problem Solving**
 <br/>💬&nbsp;Ask me about **Java**
@@ -18,7 +18,7 @@
 </div>
 
 <div align='center'>
-## Tech Stack
+<br/><br/>## Tech Stack
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
@@ -29,7 +29,7 @@
 </div>
 
 <div align='center'>
-## GitHub Analytics
+<br/><br/>## GitHub Analytics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvKaravadiya&theme=tokyonight&show_icons=true&count_private=true&hide=stars,commits">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKaravadiya&theme=tokyonight&layout=compact&langs_count=5">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvKaravadiya&theme=tokyonight">
