@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <a href="https://www.github.com/KirtanManek" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
@@ -31,4 +31,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvKaravadiya&theme=tokyonight&show_icons=true&count_private=true&hide=stars,commits">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKaravadiya&theme=tokyonight&layout=compact&langs_count=5">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvKaravadiya&theme=tokyonight">
-</span>
+</span> -->
