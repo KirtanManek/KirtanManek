@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Making my problem solving skills better**
 
-- 🌱 I’m currently learning **Java, JavaScript, HTML5, CSS3, Bootstrap, AngularJS, MySQL**
+- 🌱 I’m currently learning **Java, Pyrhon, Google Cloud, JavaScript, HTML5, CSS3, Bootstrap, AngularJS, MySQL, SQL Server**
 
 - 👨‍💻 All of my projects are available at [KirtanManek](https://github.com/KirtanManek)
 
