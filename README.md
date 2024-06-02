@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Making my problem solving skills better**
 
-- 🌱 I’m currently learning **Android development, JavaFX, Java, JavaScript, HTML5, CSS3, Bootstrap, ReactJS, AngularJS, NodeJS, MySQL, C++**
+- 🌱 I’m currently learning **Java, JavaScript, HTML5, CSS3, Bootstrap, AngularJS, MySQL**
 
 - 👨‍💻 All of my projects are available at [KirtanManek](https://github.com/KirtanManek)
 
